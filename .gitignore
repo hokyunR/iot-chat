@@ -1,8 +1,5 @@
-*.js
-!jest.config.js
-*.d.ts
+.DS_Store
 node_modules
 
-# CDK asset staging directory
-.cdk.staging
-cdk.out
+# VSCode settings
+!.vscode/settings.json
